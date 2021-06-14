@@ -12,4 +12,4 @@
     - install dependencies
     - python3 -m bot
 
-https://heroku.com/deploy?template=https://github.com/deepukumarpuri/Youtube-Downloader-Dx-Bot
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/deepukumarpuri/Youtube-Downloader-Dx-Bot)
